@@ -35,6 +35,7 @@ body {
   height: 350px;
   object-fit: cover;
   border-radius: 10px;
+  overflow: cover;
 }
 
 .gallery::after {
