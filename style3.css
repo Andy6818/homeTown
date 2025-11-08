@@ -42,3 +42,17 @@ body {
   content: "";
   width: 350px;
 }
+
+#footer, .footer {
+  display:flex;
+  flex-direction: row;
+  justify-items: flex-end;
+  justify-content: space-between;
+}
+
+.footer {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
